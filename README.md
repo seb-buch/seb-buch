@@ -4,6 +4,10 @@ I'm Sébastien, welcome to this page !
 
 ## Presentations
 
+### Devoxx France 2026
+
+- [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/devoxx-2026-passkeys)
+
 ### BDX I/O 2025
 
 - [De YOLO à Pyproject.toml : l’épopée d’un dev Python survivant](https://github.com/seb-buch/bdxio-2025-python)
