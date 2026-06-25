@@ -4,6 +4,10 @@ I'm Sébastien, welcome to this page !
 
 ## Presentations
 
+### BreizhCamp 2026
+
+- [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/breizhcamp2026-passkeys)
+
 ### Devoxx France 2026
 
 - [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/devoxx-2026-passkeys)
