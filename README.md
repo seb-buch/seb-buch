@@ -4,6 +4,10 @@ I'm Sébastien, welcome to this page !
 
 ## Presentations
 
+### Sunny Tech 2026
+
+- [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/sunnytech-2026)
+
 ### BreizhCamp 2026
 
 - [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/breizhcamp2026-passkeys)
