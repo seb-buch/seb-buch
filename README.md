@@ -4,6 +4,16 @@ I'm Sébastien, welcome to this page !
 
 ## Presentations
 
+### DevFest Toulouse 2026
+
+- [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/devfest-toulouse-2026)
+
+
+### BDX I/O 2026
+
+- [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/bdxio-2026)
+
+
 ### Sunny Tech 2026
 
 - [Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !](https://github.com/seb-buch/sunnytech-2026)
